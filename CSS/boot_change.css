@@ -1,0 +1,9 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+  .container-fluid{
+    padding: 0;
+  }
+  .container{
+    padding: 0;
+  }
